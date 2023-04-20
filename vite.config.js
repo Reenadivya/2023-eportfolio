@@ -9,7 +9,10 @@ export default defineConfig({
       input: {
         main: "./index.html",
       },
-      external: ["react-router-dom", "@fortawesome/react-fontawesome"],
+      external: [
+        "react-router-dom",
+        // Add other external modules here if needed
+      ],
     },
   },
 });
