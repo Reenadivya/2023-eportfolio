@@ -875,3 +875,9 @@ footer {
     }
   }
 }
+
+@media (max-width: 400px) {
+  .project__list {
+    padding-left: 0;
+  }
+}
