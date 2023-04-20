@@ -12,6 +12,7 @@ export default defineConfig({
         "@fortawesome/free-brands-svg-icons",
         "@emailjs/browser",
         "aos",
+        "aos/dist/aos.css",
       ],
     },
   },
