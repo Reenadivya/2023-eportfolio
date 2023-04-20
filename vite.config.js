@@ -9,6 +9,7 @@ export default defineConfig({
         "react-router-dom",
         "@fortawesome/react-fontawesome",
         "@fortawesome/free-solid-svg-icons",
+        "@fortawesome/free-brands-svg-icons",
         "@emailjs/browser",
       ],
     },
