@@ -45,7 +45,9 @@ function Landing({ toggleDarkMode }) {
               />
               <SocialLink
                 icon={faFilePdf}
-                link={"/public/2023 Frontend Software Resume (1).pdf"}
+                link={
+                  "https://storage.cloud.google.com/portfolio-image/assets/2023%20Frontend%20Software%20Resume%20(1).pdf"
+                }
                 className={"social__link click"}
               />
             </div>
