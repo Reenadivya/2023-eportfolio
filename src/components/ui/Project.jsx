@@ -38,12 +38,12 @@ function Project({ project }) {
             <div className="project__description--links">
               <SocialLink
                 icon={faGithub}
-                link={"https://heroic-cajeta-9b019d.netlify.app"}
+                link={project?.github}
                 className={"project-description--link"}
               />
               <SocialLink
                 icon={faLinkedin}
-                link={"https://heroic-cajeta-9b019d.netlify.app"}
+                link={"https://www.linkedin.com/in/reena-divya/"}
                 className={"project-description--link"}
               />
               <SocialLink

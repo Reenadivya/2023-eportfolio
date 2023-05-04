@@ -7,6 +7,7 @@ export const projects = [
     url: "./assets/Virtual Internship_NFT Marketplace.png",
     languages: "React, JavaScript, HTML, CSS, Bootstrap",
     link: "https://reena-fes-internship.vercel.app",
+    github: "https://github.com/Reenadivya/reena-internship.git",
   },
   {
     id: 2,
@@ -16,6 +17,7 @@ export const projects = [
     url: "./assets/Magic_Eden_RoyaltyTracker.png",
     languages: "React, JavaScript, HTML, CSS",
     link: "https://liberty-royalty.netlify.app",
+    github: "https://github.com/Reenadivya/Liberty-royaltytracker.git",
   },
   {
     id: 3,
@@ -25,6 +27,7 @@ export const projects = [
     url: "./assets/Glamour Boutique Ecommerce Site React.png",
     languages: "React, Redux, JavaScript, HTML, CSS",
     link: "https://glamourboutique.netlify.app",
+    github: "https://github.com/Reenadivya/Ecommerce-React-Project.git",
   },
   {
     id: 4,
@@ -34,6 +37,7 @@ export const projects = [
     url: "./assets/Advanced_Portfolio_Cinemascope.png",
     languages: "React, JavaScript, HTML, CSS",
     link: "https://cinemascope-movieapp-reena.netlify.app",
+    github: "https://github.com/Reenadivya/Movie-Library-FES-React.git",
   },
   {
     id: 5,
@@ -42,6 +46,7 @@ export const projects = [
       "Book Haven is a library that showcases a range of books. Customers can rank books accoring to the highest rating or price. This application also have add to cart functionality and a skeleton loading state to improve the UI and UX. Dynamically pulled data from a database and mapped into each section.",
     url: "./assets/Book Haven_React_proj.png",
     link: "https://cinemascope-movieapp-reena.netlify.app",
+    github: "https://github.com/Reenadivya/Movie-Library-FES-React.git",
   },
   {
     id: 6,
@@ -51,6 +56,7 @@ export const projects = [
     url: "./assets/Advanced_Portfolio_JSProject.png",
     languages: "JavaScript, HTML, CSS",
     link: "https://cinemascope-portfolio.netlify.app",
+    github: "https://github.com/Reenadivya/reena_FES-JS-Project.git",
   },
   {
     id: 7,
@@ -60,6 +66,7 @@ export const projects = [
     url: "./assets/Rick and Morty Wiki JS Proj.png",
     languages: "JavaScript, HTML, CSS",
     link: "https://rickmortywiki-reena.netlify.app",
+    github: "https://github.com/Reenadivya/Rick-and-Morty-Wiki.git",
   },
   {
     id: 8,
@@ -68,6 +75,7 @@ export const projects = [
       "Experience a seamless and user-friendly web application for mock agency services, built with JavaScript. Our app boasts a modern and visually appealing design that adapts to all screen sizes and devices.",
     url: "./assets/Edie_Project_JS.png",
     languages: "JavaScript, HTML, CSS",
-    link: "https://rickmortywiki-reena.netlify.app",
+    link: "https://superb-cactus-5da399.netlify.app",
+    github: "https://github.com/Reenadivya/edie-homepage-devchallenges.git",
   },
 ];
