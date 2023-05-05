@@ -45,7 +45,7 @@ export const projects = [
     description:
       "Book Haven is a library that showcases a range of books. Customers can rank books accoring to the highest rating or price. This application also have add to cart functionality and a skeleton loading state to improve the UI and UX. Dynamically pulled data from a database and mapped into each section.",
     url: "./assets/Book Haven_React_proj.png",
-    link: "https://cinemascope-movieapp-reena.netlify.app",
+    link: "https://book-haven-thailand.netlify.app",
     github: "https://github.com/Reenadivya/Movie-Library-FES-React.git",
   },
   {

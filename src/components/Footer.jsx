@@ -32,7 +32,7 @@ function Footer({ toggleDarkMode }) {
             </a>
 
             <a
-              href="https://storage.cloud.google.com/portfolio-image/assets/2023%20Frontend%20Software%20Resume%20(1).pdf"
+              href="../../public/assets/Resume V2.docx (1).pdf"
               target="_blank"
               className="footer__social--link link__hover link__hover-effect--white">
               Resume
