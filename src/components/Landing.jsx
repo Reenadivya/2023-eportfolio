@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import SocialLink from "./ui/SocialLink";
+import Resume from "../../public/assets/Resume V2.docx (1).pdf";
 import LaptopGirl from "../assets/Laptop_Girl.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
@@ -45,7 +46,7 @@ function Landing({ toggleDarkMode }) {
               />
               <SocialLink
                 icon={faFilePdf}
-                link={"../../public/assets/Resume V2.docx (1).pdf"}
+                link={Resume}
                 className={"social__link click"}
               />
             </div>
